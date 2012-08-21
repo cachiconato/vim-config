@@ -1,3 +1,4 @@
+call pathogen#infect()
 " Sets vi encoding to utf 8
 set encoding=utf-8
 
@@ -12,4 +13,4 @@ set smartindent
 set tabstop=2
 set shiftwidth=2
 set expandtab
-call pathogen#infect()
+noremap <F2> :NERDTreeToggle<CR>
