@@ -1,0 +1,41 @@
+" vim: syntax=vim
+
+" Sets options for vim instead of vi
+set nocompatible
+
+" Sets vi encoding to utf 8
+set encoding=utf-8
+
+" Syntax highlighting
+if &t_Co > 1
+syntax on
+endif
+
+" Indentation
+filetype plugin indent on
+set smartindent
+set tabstop=2
+set shiftwidth=2
+set expandtab
+set nu
+
+" Search highlighting and incremental
+set incsearch
+set hlsearch
+
+" Shows the matching bracket
+set showmatch
+
+" Set change word to append a dollar at the end of the selection
+set cpoptions+=$
+
+" Color scheme
+syntax enable
+set background=dark
+colorscheme solarized
+
+" Shows cmd that is currently being typed
+set showcmd
+
+noremap <F2> :NERDTreeToggle<CR>
+
