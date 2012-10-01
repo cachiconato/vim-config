@@ -16,7 +16,7 @@ Extends the % operator to match more than brackets, like HTML tags.
 - [Nerdtree](https://github.com/scrooloose/nerdtree.git):
 Tree file navigation.
 
-- [MatchTag](hgit://github.com/altercation/vim-colors-solarized.git]
+- [MatchTag](git://github.com/altercation/vim-colors-solarized.git]
 Highlight for html tags.
 
 - [Solarized](https://github.com/scrooloose/nerdtree.git):
