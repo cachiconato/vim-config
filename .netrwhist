@@ -1,8 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/Users/cchicon/Downloads/ThoughtWorks-ProblemTwo/ThoughtWorks-ProblemTwo/TestProject'
 let g:netrw_dirhist_2='/Users/cchicon/Downloads/ThoughtWorks-ProblemTwo/ThoughtWorks-ProblemTwo'
 let g:netrw_dirhist_3='/Users/cchicon/Downloads/mars rovers/MarsRovers(Bruno)/tests/tw/bootcamp/marsrovers'
 let g:netrw_dirhist_4='/Users/cchicon/Downloads/mars rovers/MarsRovers(rodrigo)/MarsRovers.Tests'
 let g:netrw_dirhist_5='/Users/cchicon'
 let g:netrw_dirhist_6='/Users/cchicon/.vim/bundle/matchit'
+let g:netrw_dirhist_7='/Users/cchicon/work/workspaces/ecom/TomcatServers'
+let g:netrw_dirhist_8='/Users/cchicon/work/gap/build/buildeng'
